@@ -1,22 +1,25 @@
 # Hi there, I'm Clyde Mulenga 👋
 
-### Advanced Data Scientist | HIV/AIDS Research Specialist | Public Health Analyst
+### Statistician | Biostatistician | Data Scientist & Researcher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clyde-mulenga-b30a83177)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clydemulenga@outlook.com)
-[![Location](https://img.shields.io/badge/Location-Lilongwe,%20Malawi-green?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Lilongwe)
+[![Location](https://img.shields.io/badge/Location-Lusaka,%20Zambia-green?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Lusaka)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an Advanced Data Scientist/Analyst specializing in **HIV/AIDS research** and **public health analytics** at **UNC Project-Malawi** in Lilongwe, Malawi. With a strong foundation in statistical analysis and data science, I focus on HIV prevention, treatment outcomes, and epidemiological research that drives evidence-based public health interventions.
+I'm a 32-year-old **Statistician, Biostatistician, Data Scientist, & Researcher** specialized in **biostatistics & machine learning** with extensive research experience in analysis of large datasets, and biomarkers of adverse pregnancy outcomes from **multi-omics** and the **vaginal microbiome**.
 
-My work involves managing complex research datasets, conducting advanced statistical analyses, and supporting multiple high-impact research projects and publications. I'm passionate about using data science to address critical public health challenges, particularly in HIV/AIDS research and epidemic control.
+Currently, I serve as **Data Analyst** for the **Multi-omics for Mothers and Infants (MOMI) Consortium** at the University of North Carolina at Chapel Hill, working on identifying novel multi-omics predictive biomarkers for preterm birth, stillbirth, preeclampsia, small for gestation age, and fetal growth restriction. I'm also a **Research Fellow** with the **Vaginal Microbiome Research Consortium (VMRC)**, identifying markers from the vaginal microbiome predictive of preterm birth and stillbirth.
+
+Additionally, I'm a **Part-Time Lecturer** teaching Epidemiology and Biostatistics at the University of Zambia (UNZA) and Levy Mwanawasa Medical University (LMMU).
 
 🎓 **Education:**
-- **MSc in Applied Statistics** (In Progress) - University of Zambia
-- **BSc in Statistics** - University of Zambia
+- **MSc in Medical Statistics** (2020-2022) - University of Zambia
+  - Specialization: Biostatistics & Epidemiology
+- **BSc in Mathematics** (2014-2018) - The Copperbelt University
 
 ---
 
@@ -25,52 +28,87 @@ My work involves managing complex research datasets, conducting advanced statist
 ### Data Science & Analytics
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![STATA](https://img.shields.io/badge/STATA-1A73C2?style=flat-square&logo=stata&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
-
-### Visualization & Reporting
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![REDCap](https://img.shields.io/badge/REDCap-8C1515?style=flat-square&logo=database&logoColor=white)
+![JASP](https://img.shields.io/badge/JASP-0078D7?style=flat-square&logo=statistics&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Core Competencies
-- **Statistical Methods**: Regression Analysis, Survival Analysis, Machine Learning, Geospatial Analysis
-- **Research Design**: Clinical Trials, Epidemiological Studies, Impact Assessments
-- **Data Management**: Large-scale Dataset Management, Data Quality Assurance
-- **Specialization**: HIV/AIDS Research, Public Health, Infectious Disease Epidemiology
+- **Statistical Methods**: General Linear Models, Regression Methods, Poisson & Negative Binomial Models, Multinomial & Proportional Odds Models, Survival Analysis, Bayesian Statistics
+- **Machine Learning**: Predictive modeling, classification algorithms, high-dimensional data analysis
+- **Research Specialization**: 
+  - Multi-omics (metabolomics) analysis
+  - Vaginal microbiome research
+  - Biomarkers of adverse pregnancy outcomes (preterm birth, stillbirth, preeclampsia)
+  - Bioinformatics and viral genomics
+- **Data Management**: Large-scale dataset management, reproducible data analysis
+- **Languages**: English, Bemba, Nyanja, Chewa
 
 ---
 
-## 💼 Current Work
+## 💼 Current Positions
 
-**Data Scientist/Analyst** | UNC Project-Malawi | July 2022 - Present
+**Data Analyst** | University of North Carolina at Chapel Hill | October 2023 - Present
+- Metabolomics Working Group, Multi-omics for Mothers and Infants (MOMI) Consortium
+- Identifying novel multi-omics predictive biomarkers for adverse pregnancy outcomes
+- Working at UNC Global Projects, LLC Zambia offices
 
-- Managing complex HIV research datasets for multiple concurrent studies
-- Conducting advanced statistical analyses to inform HIV prevention and treatment strategies
-- Developing data visualization dashboards for research insights and program monitoring
-- Supporting evidence-based decision-making through rigorous data analysis
-- Collaborating with international research teams on high-impact publications
+**Research Fellow** | UNC Global Projects, LLC Zambia | September 2023 - March 2025
+- Vaginal Microbiome Research Consortium (VMRC)
+- Identifying markers from vaginal microbiome predictive of preterm birth and stillbirth
+- 3 manuscripts at publication stage
+
+**Part-Time Lecturer** | University of Zambia (UNZA) | March 2024 - Present
+- School of Public Health, Department of Epidemiology and Biostatistics
+- Teaching Epidemiology and Biostatistics
+
+**Part-Time Lecturer** | Levy Mwanawasa Medical University (LMMU) | September 2020 - Present
+- School of Public Health and Environmental Sciences (SoPHES)
+- Teaching Biostatistics, Epidemiology, & Research
 
 ---
 
-## 📚 Notable Publications & Presentations
+## 📚 Publications & Presentations
 
 ### Published Research
-1. **"Prevalence and factors associated with sexually transmitted infections among female sex workers in Zambia"**
-   - Published in *Sexually Transmitted Infections* (2023)
-   - [View Publication](https://pubmed.ncbi.nlm.nih.gov/)
 
-2. **"Zambia Population-based HIV Impact Assessment (ZAMPHIA) 2021"**
-   - Conference Presentation at IAS 2025
+1. **"Predicting Mortality in Hospitalized COVID-19 Patients in Zambia: An Application of Machine Learning"**
+   - Mulenga, C. et al. (2023)
+   - *Global Health, Epidemiology and Genomics*, 2023, p. 8921220
+   - [View Publication](https://pubmed.ncbi.nlm.nih.gov/37260675/)
 
-### Key Research Projects
-- **SEARCH Study** - HIV epidemic control trial
-- **HPTN 071 PopART Trial** - Combination HIV prevention intervention
-- **ZAMPHIA 2021** - Population-based HIV Impact Assessment
-- Various epidemiological and clinical research projects
+2. **"Mortality Classification of Hospitalized COVID-19 Patients in Zambia Using Machine Learning"**
+   - Mulenga, C., Kaonga, P. and Musonda, P. (2022)
+   - AfricArXiv Preprint
+   - [View Preprint](https://doi.org/10.31730/osf.io/98wvg)
 
-*Multiple presentations at international conferences on HIV research, epidemiology, and public health*
+### Conference Presentations (IAS 2025)
+
+3. **"Preterm birth outcomes in Zambian women are associated with distinct plasma metabolomic signatures, which vary by HIV status"**
+   - Mulenga C, Kamulaza L, Sakala J, et al.
+   - IAS 2025 Conference, Kigali, Rwanda (Abstract EP0019)
+   - [View Abstract](https://www.iasociety.org/sites/default/files/IAS2025/abstract-book/IAS-2025_Abstracts_Medium.pdf)
+
+4. **"Incidence and metabolomic signatures of preeclampsia in Zambian women"**
+   - Kamulaza L, Mulenga C, Pokaprakarn T, et al.
+   - IAS 2025 Conference, Kigali, Rwanda (Abstract EP0018)
+   - [View Abstract](https://www.iasociety.org/sites/default/files/IAS2025/abstract-book/IAS-2025_Abstracts_Medium.pdf)
+
+---
+
+## 🎓 Data Science Certifications
+
+- **Data Science for Biology: Workshop I** - Reproducible Data Analysis in R
+  - University of KwaZulu-Natal, Durban, South Africa (Oct 2023)
+
+- **Data Science for Biology: Workshop II** - Working with High Dimensional Data in R - Human Microbiome Applications
+  - University of KwaZulu-Natal, Durban, South Africa (Apr 2024)
+
+- **Data Science for Biology: Workshop III** - Bioinformatics and Viral Genomics in R
+  - University of KwaZulu-Natal, Durban, South Africa (Feb 2025)
+
+- **Machine Learning in Python**
+  - Learning Tree International, London, United Kingdom (Jan 2025)
 
 ---
 
@@ -85,19 +123,20 @@ My work involves managing complex research datasets, conducting advanced statist
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on:
-- HIV/AIDS research and public health projects
-- Advanced statistical analysis and data science applications
-- Epidemiological studies and clinical trials
-- Open-source tools for health research
+- Multi-omics and microbiome research
+- Biostatistics and machine learning applications in public health
+- Adverse pregnancy outcomes research
+- Bioinformatics and computational biology
+- Open-source tools for biomedical research
 
 📧 **Email**: [clydemulenga@outlook.com](mailto:clydemulenga@outlook.com) | [clyde_mulenga@med.unc.edu](mailto:clyde_mulenga@med.unc.edu)  
 💼 **LinkedIn**: [Clyde Mulenga](https://www.linkedin.com/in/clyde-mulenga-b30a83177)  
-�� **Location**: Lilongwe, Malawi
+📍 **Location**: Lusaka, Zambia
 
 ---
 
 <p align="center">
-  <i>💡 "Using data science to drive evidence-based public health interventions and improve lives"</i>
+  <i>💡 "Using data science and biostatistics to advance maternal and infant health outcomes"</i>
 </p>
 
 <!---
